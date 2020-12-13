@@ -10,8 +10,8 @@
 
 ## Linguagens
 :white_check_mark: C++ <br>
-:white_check_mark:Java <br>
 :white_check_mark: C# <br>
+:white_check_mark:Java <br>
 :white_check_mark: Javascript <br>
 <!--
 **AlissonWenceslau/AlissonWenceslau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
