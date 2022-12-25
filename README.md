@@ -1,8 +1,8 @@
 ### Alisson Wenceslau 👋
 
-[![Twitter](https://img.shields.io/badge/-Twitter-395449?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AlissonWences)](https://twitter.com/AlissonWences)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-395449?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisson-wenceslau-b78b4aa3/)](https://www.linkedin.com/in/alisson-wenceslau-b78b4aa3/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-395449?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14643256/alisson-wenceslau)](https://stackoverflow.com/users/14643256/alisson-wenceslau)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AlissonWences)](https://twitter.com/AlissonWences)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisson-wenceslau-b78b4aa3/)](https://www.linkedin.com/in/alisson-wenceslau-b78b4aa3/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000000?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14643256/alisson-wenceslau)](https://stackoverflow.com/users/14643256/alisson-wenceslau)
 [![GitHub followers](https://img.shields.io/github/followers/AlissonWenceslau.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AlissonWenceslau?tab=followers)<br>
 
 <!--HeloWorld-->
@@ -14,4 +14,4 @@
 :mortar_board: Análise e desenvolvimento de sistemas<br>
 
 ## Stack
- ![html](	https://img.shields.io/badge/HTML-395449?style=for-the-badge&logo=html5&logoColor=white) ![css](		https://img.shields.io/badge/CSS-395449?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-395449?style=for-the-badge&logo=javascript&logoColor=white) ![java](https://img.shields.io/badge/Java-395449?style=for-the-badge&logo=java&logoColor=white) ![spring](	https://img.shields.io/badge/SpringFramework-395449?style=for-the-badge&logo=spring&logoColor=white)
+ ![html](	https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white) ![css](		https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![spring](	https://img.shields.io/badge/SpringFramework-000000?style=for-the-badge&logo=spring&logoColor=white)
