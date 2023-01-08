@@ -17,7 +17,7 @@
 1. Comunicação eficaz;
 2. Organização e planejamento;
 3. Capacidade de resolver problemas;
-4. Relacionamento relacionamento interpessoal e responsabilidade
+4. Relacionamento interpessoal e responsabilidade
 
 ## Hard Skills
  ![html](	https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white) ![css](		https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![spring](	https://img.shields.io/badge/SpringFramework-000000?style=for-the-badge&logo=spring&logoColor=white)
