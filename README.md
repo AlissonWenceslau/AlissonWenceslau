@@ -20,4 +20,5 @@
 4. Relacionamento interpessoal e responsabilidade
 
 ## Hard Skills
- ![html](	https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white) ![css](		https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![spring](	https://img.shields.io/badge/SpringFramework-000000?style=for-the-badge&logo=spring&logoColor=white)
+ ![html](	https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white) ![css](		https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![spring](	https://img.shields.io/badge/SpringFramework-000000?style=for-the-badge&logo=spring&logoColor=white) ![mysql](	https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white) ![mongodb](	https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+
