@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74499967/209347360-c9f35c2f-2e6e-4f6b-bb8b-0f4c182bbcc4.gif" width="500" height="500">
 
 <!--Stats-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonwenceslau&layout=&theme=radical&exclude_repo=profile)](https://github.com/alissonwenceslau/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonwenceslau&layout=&theme=radical&exclude_repo=profile)](https://github.com/alissonwenceslau/)
 
 
 :mortar_board: Análise e desenvolvimento de sistemas<br>
