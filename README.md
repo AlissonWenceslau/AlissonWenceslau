@@ -5,8 +5,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000000?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14643256/alisson-wenceslau)](https://stackoverflow.com/users/14643256/alisson-wenceslau)
 [![GitHub followers](https://img.shields.io/github/followers/AlissonWenceslau.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AlissonWenceslau?tab=followers)<br>
 
-<!--HeloWorld-->
-<img src="https://user-images.githubusercontent.com/74499967/209347360-c9f35c2f-2e6e-4f6b-bb8b-0f4c182bbcc4.gif" width="500" height="500">
+![mario](https://github.com/AlissonWenceslau/AlissonWenceslau/assets/74499967/347cde37-695f-488d-a531-f4db5d72d7a5)
 
 <!--Stats-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonwenceslau&theme=dark&exclude_repo=profile)](https://github.com/alissonwenceslau/)
